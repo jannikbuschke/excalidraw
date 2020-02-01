@@ -52,7 +52,9 @@
     "getShareableLink": "Get shareable link",
     "close": "Close",
     "selectLanguage": "Select Language",
-    "previouslyLoadedScenes": "Previously loaded scenes"
+    "previouslyLoadedScenes": "Previously loaded scenes",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out"
   },
   "alerts": {
     "clearReset": "This will clear the whole canvas. Are you sure?",
