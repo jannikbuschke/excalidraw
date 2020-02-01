@@ -24,4 +24,5 @@ export type AppState = {
   cursorY: number;
   name: string;
   selectedId?: string;
+  zoom: number;
 };
